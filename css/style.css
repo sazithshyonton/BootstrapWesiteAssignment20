@@ -1,0 +1,54 @@
+body{
+font-family: 'Playfair Display', serif;
+color: #626262; 
+}
+/*Header CSS Start*/
+.box{
+padding-top: 60px;
+padding-bottom: 80px;
+}
+/*Header CSS end*/
+.bannar img{
+padding-bottom: 80px;
+}
+.light {
+font-size: 14px;
+font-weight: 300;
+color: #b4ad9e;
+text-transform: uppercase;
+margin: 0;
+}
+.c_title{
+font-size:30px;
+font-weight:400;
+margin:25px 0 30px;
+}
+.c_p{
+font-size: 17px;
+line-height: 25px;
+word-spacing: 1px;
+margin-top: 0;
+margin-bottom: 45px;
+}
+/*button start*/
+.load{
+margin: 0 auto;
+margin-top: 120px;
+margin-bottom: 100px;
+}
+.load button{
+width: 165px;
+height: 70px;
+background-color: white;
+border: 1px solid #626262;
+font-family: 'Playfair Display', serif;
+font-size: 20px;
+color: #626262;
+cursor: pointer;
+transition: .3s;
+}
+.load button:hover {
+background-color: #626262;
+color: white;
+}
+/*button end*/
